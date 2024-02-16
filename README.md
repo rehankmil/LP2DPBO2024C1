@@ -44,3 +44,4 @@ Saya menggunakan List<Shirt> untuk menyimpan objek Shirt yang dibuat oleh user. 
    2. Tidak 
 3. Jika memilih 1 maka user akan mengisi masukan objek baru dengan atributnya dan jika memilih 2 maka ditampilkan "Terima Kasih!" program berhenti
 # Dokumentasi
+![alt text](https://github.com/rehankmil/LP2DPBO2024C1/blob/cd78165678a54823d244fcf21184a372bd335ebe/java/dokumentasi/java.png)
